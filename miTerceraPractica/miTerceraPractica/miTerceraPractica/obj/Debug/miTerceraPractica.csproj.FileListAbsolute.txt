@@ -1,0 +1,7 @@
+C:\Users\Diego Ariel\Documents\programaciòn\mi-programacion-2024\miTerceraPractica\miTerceraPractica\miTerceraPractica\bin\Debug\miTerceraPractica.exe.config
+C:\Users\Diego Ariel\Documents\programaciòn\mi-programacion-2024\miTerceraPractica\miTerceraPractica\miTerceraPractica\bin\Debug\miTerceraPractica.exe
+C:\Users\Diego Ariel\Documents\programaciòn\mi-programacion-2024\miTerceraPractica\miTerceraPractica\miTerceraPractica\bin\Debug\miTerceraPractica.pdb
+C:\Users\Diego Ariel\Documents\programaciòn\mi-programacion-2024\miTerceraPractica\miTerceraPractica\miTerceraPractica\obj\Debug\miTerceraPractica.csproj.AssemblyReference.cache
+C:\Users\Diego Ariel\Documents\programaciòn\mi-programacion-2024\miTerceraPractica\miTerceraPractica\miTerceraPractica\obj\Debug\miTerceraPractica.csproj.CoreCompileInputs.cache
+C:\Users\Diego Ariel\Documents\programaciòn\mi-programacion-2024\miTerceraPractica\miTerceraPractica\miTerceraPractica\obj\Debug\miTerceraPractica.exe
+C:\Users\Diego Ariel\Documents\programaciòn\mi-programacion-2024\miTerceraPractica\miTerceraPractica\miTerceraPractica\obj\Debug\miTerceraPractica.pdb
