@@ -10,6 +10,7 @@ namespace miCuartaPractica
     {
 
         static void Main(string[] args)
+            // Escriba un programa que solicite un número al usuario y determine si es primo o no.
         {
             while (true)
             {
