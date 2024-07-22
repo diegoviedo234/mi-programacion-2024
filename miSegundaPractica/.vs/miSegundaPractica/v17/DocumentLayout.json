@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diego Ariel\\Documents\\programaci\u00F2n\\mi-programacion-2024\\miSegundaPractica\\miSegundaPractica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84FDA9BC-AE71-437F-9C0A-262B22C5B6EE}|miSegundaPractica\\miSegundaPractica.csproj|c:\\users\\diego ariel\\documents\\programaci\u00F2n\\mi-programacion-2024\\misegundapractica\\misegundapractica\\misegundapractica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FDA9BC-AE71-437F-9C0A-262B22C5B6EE}|miSegundaPractica\\miSegundaPractica.csproj|solutionrelative:misegundapractica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Ariel\\Documents\\programaci\u00F2n\\mi-programacion-2024\\miSegundaPractica\\miSegundaPractica\\miSegundaPractica\\Program.cs",
+              "RelativeDocumentMoniker": "miSegundaPractica\\Program.cs",
+              "ToolTip": "C:\\Users\\Diego Ariel\\Documents\\programaci\u00F2n\\mi-programacion-2024\\miSegundaPractica\\miSegundaPractica\\miSegundaPractica\\Program.cs",
+              "RelativeToolTip": "miSegundaPractica\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAApwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T00:26:21.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
