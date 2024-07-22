@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "miQuintaPractica", "miQuintaPractica\miQuintaPractica.csproj", "{D0C7B244-E1CA-4026-A9D2-67B7B6A9147B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0C7B244-E1CA-4026-A9D2-67B7B6A9147B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C7B244-E1CA-4026-A9D2-67B7B6A9147B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C7B244-E1CA-4026-A9D2-67B7B6A9147B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C7B244-E1CA-4026-A9D2-67B7B6A9147B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F1EC858-F476-48EE-B35D-51EF47E8BF4D}
+	EndGlobalSection
+EndGlobal

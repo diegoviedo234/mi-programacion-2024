@@ -1,0 +1,7 @@
+C:\Users\Diego Ariel\Documents\programaciòn\mi-programacion-2024\miQuintaPractica\miQuintaPractica\miQuintaPractica\bin\Debug\miQuintaPractica.exe.config
+C:\Users\Diego Ariel\Documents\programaciòn\mi-programacion-2024\miQuintaPractica\miQuintaPractica\miQuintaPractica\bin\Debug\miQuintaPractica.exe
+C:\Users\Diego Ariel\Documents\programaciòn\mi-programacion-2024\miQuintaPractica\miQuintaPractica\miQuintaPractica\bin\Debug\miQuintaPractica.pdb
+C:\Users\Diego Ariel\Documents\programaciòn\mi-programacion-2024\miQuintaPractica\miQuintaPractica\miQuintaPractica\obj\Debug\miQuintaPractica.csproj.AssemblyReference.cache
+C:\Users\Diego Ariel\Documents\programaciòn\mi-programacion-2024\miQuintaPractica\miQuintaPractica\miQuintaPractica\obj\Debug\miQuintaPractica.csproj.CoreCompileInputs.cache
+C:\Users\Diego Ariel\Documents\programaciòn\mi-programacion-2024\miQuintaPractica\miQuintaPractica\miQuintaPractica\obj\Debug\miQuintaPractica.exe
+C:\Users\Diego Ariel\Documents\programaciòn\mi-programacion-2024\miQuintaPractica\miQuintaPractica\miQuintaPractica\obj\Debug\miQuintaPractica.pdb
